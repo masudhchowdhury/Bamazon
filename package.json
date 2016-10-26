@@ -1,1 +1,27 @@
-{}
+{
+  "name": "Bamazon",
+  "description": "Node amazon",
+  "version": "1.0.0",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "json": "^9.0.4",
+    "node": "^0.0.0",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masudhchowdhury/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masudhchowdhury/Bamazon/issues"
+  },
+  "homepage": "https://github.com/masudhchowdhury/Bamazon#readme"
+}
